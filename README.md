@@ -20,11 +20,9 @@ Se ha utilizado `display: grid` en el contenedor principal y en las secciones in
 
 ## Despliegue
 
-Este proyecto no está desplegado en un servidor público, ya que se trata de una práctica local. Para visualizarlo:
+- **Despliegue**: https://ljestreni.github.io/Maquetacion-GRID-Practica01/ 
 
-1.  Descarga el código o clona el repositorio.
-2.  Abre el archivo `maquetacionGRID_Practica01.html` directamente en tu navegador favorito.
-3.  Opcional: Si utilizas **Visual Studio Code**, puedes usar la extensión **Live Server** para iniciarlo en un servidor local y ver los cambios en tiempo real.\_
+- **Recursos adicionales**: https://github.com/ljestreni/Maquetacion-GRID-Practica01
 
 ## Construido con
 
@@ -43,3 +41,4 @@ Versión 1.0.0
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
+
